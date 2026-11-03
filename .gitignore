@@ -22,9 +22,6 @@ pnpm-debug.log*
 # Archives
 *.zip
 
-# Duplicate of pjs-backend/uploads (the backend serves images from pjs-backend/uploads)
-/uploads/
-
 # DB exports containing private data (admin password hash, customer messages)
 db/pjs.users.json
 db/pjs.contactmsgs.json
