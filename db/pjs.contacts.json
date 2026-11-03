@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6831b8a06a209b8511606dbb"
+  },
+  "title": "Get in Touch With Us",
+  "description": "Have a question or ready to start your next project? Reach out to our team of experts today. We're here to support your vision with reliable consultation and professional execution.",
+  "email": "pjsconsultantfirmbd@gmail.com",
+  "phone": "+880 1709-825133",
+  "address": "Main Office: H-18, Road-1, Block-B, Section-6, Mirpur, Dhaka, 1216.\\n\\nBranch Office: Room No: 33 (2nd Floor), Goalchamot, Rakibuddin Market, Faridpur, Bangladesh.",
+  "__v": 0,
+  "socials": [
+    {
+      "icon": "FaFacebook",
+      "url": "https://www.facebook.com/PJSConsultantFIRM/"
+    },
+    {
+      "icon": "FaInstagram",
+      "url": "https://www.instagram.com/pjsconsultant.firm/"
+    },
+    {
+      "icon": "FaLinkedin",
+      "url": "https://www.linkedin.com/company/PJSConsultantFirm"
+    },
+    {
+      "icon": "FaTwitter",
+      "url": "https://x.com/PJSConsultantF"
+    },
+    {
+      "icon": "FaYoutube",
+      "url": "https://www.youtube.com/@PJSConsultantFirmbd"
+    }
+  ]
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "682c26a16a209b8511606667"
+  },
+  "image": "1770085176326-3d-illustration-health-icon-agent-insurance-png.png",
+  "title": "Expertise & Experienced",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6832995c6a209b8511606ff5"
+  },
+  "image": "1770085254541-images.png",
+  "title": "Client-Centric Approach",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68329b766a209b851160700c"
+  },
+  "image": "1770085219101-7763848.png",
+  "title": "All-in-One Solution",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68329c486a209b8511607023"
+  },
+  "image": "1770085291068-13943433.png",
+  "title": "Nationwide Presence",
+  "__v": 0
+}]

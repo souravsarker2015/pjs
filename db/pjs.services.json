@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "682b87bbf7efb981fecc419d"
+  },
+  "title": "Building Plan Design",
+  "image": "services/1770223094641-9.jpeg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>Tailor-made floor plans that align with your vision, space, and local building codes.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682b8818f7efb981fecc41a0"
+  },
+  "title": "Architectural & Structural Design",
+  "image": "services/1769670628216-architectural-structural-design.jpg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>Innovative structural frameworks and modern architectural concepts for safe and stunning buildings.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831bf6f6a209b8511606eb7"
+  },
+  "title": "Real Estate Consultancy",
+  "image": "services/1769670689776-real-estate-consultants-1694083430-7069221.jpg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>From site evaluation to legal consultation—comprehensive guidance for successful property investments.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831bf9e6a209b8511606eba"
+  },
+  "title": "Steel Structure Design & Execution",
+  "image": "services/1769670790393-pre-engineered-building-foundationA-1024x696.jpg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>High-strength and cost-effective steel solutions for warehouses, factories, and commercial spaces.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831bfcb6a209b8511606ebd"
+  },
+  "title": "Land Development",
+  "image": "services/1769670853113-Blog_Sketch_Plan.jpg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>Professional planning and groundwork to transform raw land into ready-to-build plots.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831c0566a209b8511606ec1"
+  },
+  "title": "Electrical & Plumbing Design",
+  "image": "services/1770090601094-images.jpeg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>Safe and efficient electrical layouts and plumbing systems tailored for your building’s needs.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831c0766a209b8511606ec4"
+  },
+  "title": "Soil Testing",
+  "image": "services/1769670936737-soil-testing-agronomy-inspector-taking-soil-sampl-2021-08-26-16-53-52-utc-scaled.jpg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>Accurate geotechnical reports that form the foundation of a safe and stable structure.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831c09f6a209b8511606ec7"
+  },
+  "title": "Interior & Exterior Design",
+  "image": "services/1769670970442-hq720.jpg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>Creative and functional spaces that reflect your style and purpose—inside and out.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831c0c86a209b8511606eca"
+  },
+  "title": "2D and 3D Visualizations",
+  "image": "services/1769671028986-images.jpeg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>Realistic renderings and walkthroughs to visualize your dream project before construction.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831c0ea6a209b8511606ecd"
+  },
+  "title": "Estimating & Costing",
+  "image": "services/1769671054841-images (1).jpeg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>Transparent budgeting with detailed cost breakdowns for materials and labor.</span><br></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831c1546a209b8511606ed0"
+  },
+  "title": "On-site Supervision",
+  "image": "services/1769671089313-onsite-supervision.jpg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>Dedicated engineers oversee construction to ensure compliance, quality, and timely delivery.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831c1666a209b8511606ed3"
+  },
+  "title": "Digital Land Survey",
+  "image": "services/1769671123112-srinivasa-digital-land-survey-and-mapping-kukatpally-hyderabad-land-surveyors-kmt0vkzss3.avif",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>Advanced digital tools for accurate and legal boundary mapping of your property.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831c17b6a209b8511606ed6"
+  },
+  "title": "Piling & Construction Project Planning",
+  "image": "services/1769671146840-images (2).jpeg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>End-to-end planning and piling work for complex structures requiring deep foundation.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831c18f6a209b8511606ed9"
+  },
+  "title": "City Corporation / Municipal / RAJUK Plan Approval",
+  "image": "services/1769671167632-images (3).jpeg",
+  "description": "<p data-pm-slice=\"1 1 []\"><span>We handle the paperwork and procedures to get your plans approved smoothly and legally.</span></p>",
+  "__v": 0
+}]

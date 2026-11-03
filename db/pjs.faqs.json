@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "682c058a636ca254ba1fe856"
+  },
+  "question": "Do you offer services outside Faridpur?",
+  "ans": "Yes. We serve all major cities and districts in Bangladesh.",
+  "createdAt": {
+    "$date": "2025-05-20T04:31:06.990Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T03:59:34.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c0596636ca254ba1fe859"
+  },
+  "question": "How long does the design process take?",
+  "ans": "The timeline varies based on project scope and complexity. A small residential design might take 2–4 weeks, while larger or commercial projects can take several months. We provide a clear schedule after the initial consultation.",
+  "createdAt": {
+    "$date": "2025-05-20T04:31:18.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T04:31:18.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c05a4636ca254ba1fe85c"
+  },
+  "question": "Do I need to have a clear idea before starting the design process?",
+  "ans": "Not at all! Whether you have a full vision or just a rough idea, we’ll work closely with you to understand your needs, preferences, and budget. Our goal is to shape your ideas into a functional and beautiful architectural solution.",
+  "createdAt": {
+    "$date": "2025-05-20T04:31:32.729Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T04:31:32.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831ba546a209b8511606dfd"
+  },
+  "question": "Can you help with RAJUK plan approval?",
+  "ans": "Absolutely! We assist with city corporation, municipality, and RAJUK plan approvals.",
+  "createdAt": {
+    "$date": "2025-05-24T12:23:48.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T12:23:48.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831ba626a209b8511606e00"
+  },
+  "question": "What types of buildings do you design?",
+  "ans": "We design residential, commercial, and industrial buildings.",
+  "createdAt": {
+    "$date": "2025-05-24T12:24:02.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T12:24:02.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831ba6c6a209b8511606e03"
+  },
+  "question": "Do you provide interior and exterior design?",
+  "ans": "Yes, we offer complete interior and exterior design services.",
+  "createdAt": {
+    "$date": "2025-05-24T12:24:12.513Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T12:24:12.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831ba7a6a209b8511606e06"
+  },
+  "question": "Do you provide digital land surveys?",
+  "ans": "Yes, our services include professional digital land survey solutions.",
+  "createdAt": {
+    "$date": "2025-05-24T12:24:26.118Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T12:24:26.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831ba866a209b8511606e09"
+  },
+  "question": "How do I get a quotation?",
+  "ans": "Contact us via phone, email, or website. We’ll assess your project and provide a free estimate.",
+  "createdAt": {
+    "$date": "2025-05-24T12:24:38.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T12:24:38.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6831ba966a209b8511606e0c"
+  },
+  "question": "Do you offer e-services in remote areas?",
+  "ans": "Yes! Our future expansion plan includes extending e-services to all remote areas of the country.",
+  "createdAt": {
+    "$date": "2025-05-24T12:24:54.176Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-24T12:24:54.176Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "682c06db636ca254ba1fe874"
+  },
+  "title": "Our Success Stories",
+  "bgImage": "counter/1770085535538-diana-company-04-success-header-teaser-1920xauto.jpg",
+  "counts": [
+    {
+      "title": "Real State property",
+      "number": 495,
+      "_id": {
+        "$oid": "682c06db636ca254ba1fe875"
+      }
+    },
+    {
+      "title": "Building Plan Done",
+      "number": 1100,
+      "_id": {
+        "$oid": "68626bc9f94f8b25771d8831"
+      }
+    },
+    {
+      "title": "Architectural Design",
+      "number": 100,
+      "_id": {
+        "$oid": "68626bddf94f8b25771d8840"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-05-20T04:36:43.656Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T02:25:35.616Z"
+  },
+  "__v": 0
+}]

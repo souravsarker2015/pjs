@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "69815e64d1138fc626ee5cb2"
+  },
+  "logo": "clients/1770085988164-images.jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69815e6bd1138fc626ee5cb5"
+  },
+  "logo": "clients/1770085995203-images (1).jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69815e71d1138fc626ee5cb8"
+  },
+  "logo": "clients/1770086001972-images (2).jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69815e79d1138fc626ee5cbb"
+  },
+  "logo": "clients/1770086009356-maxresdefault.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69815e7fd1138fc626ee5cbe"
+  },
+  "logo": "clients/1770086015523-the_oasis_ispahani_colony_slider1-1024x575-1-525x328.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69815e85d1138fc626ee5cc1"
+  },
+  "logo": "clients/1770086021619-Township-projects-The-future-of-real-estate-development-in-metros-FB-1200x628-compressed.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69815eb6d1138fc626ee5cd9"
+  },
+  "logo": "clients/1770086070155-images (3).jpeg",
+  "__v": 0
+}]
