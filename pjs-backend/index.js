@@ -4,6 +4,7 @@ const mongoose = require("mongoose");
 require("dotenv").config();
 const port = process.env.PORT || 2801;
 const apiRoutes = require("./src/routes/index");
+const { seedAdmin } = require("./src/utils/seedAdmin");
 
 const app = express();
 app.use(cors());
@@ -14,6 +15,7 @@ app.use(express.static("uploads"));
 // Connect Database
 mongoose.connect(process.env.DB_URL).then(() => {
   console.log("Database connection is successful");
+  seedAdmin();
 });
 
 // API Routes
